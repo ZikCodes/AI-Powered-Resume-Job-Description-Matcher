@@ -19,7 +19,7 @@ class App:
             #Upload
             with st.container(border=False):
                 pdf_upload = st.file_uploader(accept_multiple_files=False, max_upload_size=20, label='Upload PDF', label_visibility='hidden',
-                                              type=['.pdf','.docx'])            
+                                              type=['.pdf'])            
                 job_description = st.text_area('Job Description', placeholder='Place  the full job description here...')   
                 
                 #Analyze button  
