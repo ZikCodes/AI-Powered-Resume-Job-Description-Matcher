@@ -22,6 +22,17 @@ An AI-driven resume optimization dashboard built with **Streamlit** and Python. 
 
 ---
 
+## 🖼️ Application Preview
+
+<p align="center">
+  <img src="Demo/demo1.png", width="800">
+</p>
+
+<p align="center">
+  <img src="Demo/demo2.png", width="800">
+</p>
+
+
 ## 🚀 Quick Start
 
 ### 1. Create virtual environment
