@@ -37,9 +37,12 @@ An AI-driven resume optimization dashboard built with **Streamlit** and Python. 
 git clone [https://github.com/ZikCodes/AI-Powered-Resume-Job-Description-Matcher.git](https://github.com/ZikCodes/AI-Powered-Resume-Job-Description-Matcher.git)
 cd resume analyzer
 
-3. Create a .env file in the root directory (or use Streamlit Secrets .streamlit/secrets.toml):
+
+### 3. Create virtual environment
+- Create a .env file in the root directory (or use Streamlit Secrets .streamlit/secrets.toml):
 
 - API_KEY="your_api_key_here"
 
-4. Run the Streamlit App
+### 4. Run the App
+- Run the Streamlit App
 streamlit run main.py
