@@ -34,7 +34,7 @@ An AI-driven resume optimization dashboard built with **Streamlit** and Python. 
 ### 2. Clone the repository
 
     - git clone [https://github.com/ZikCodes/AI-Powered-Resume-Job-Description-Matcher.git](https://github.com/ZikCodes/AI-Powered-Resume-Job-Description-Matcher.git)
-    cd resume analyzer
+    cd AI-Powered-Resume-Job-Description-Matcher
 
 
 ### 3. Create virtual environment
